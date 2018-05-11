@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JzqDemo</string>
+
+
+    <string name="title_homePage">首页</string>
+    <string name="title_category">分类</string>
+    <string name="title_mine">我的</string>
+    <string name="title_notification">消息</string>
+</resources>
